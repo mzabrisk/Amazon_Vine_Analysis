@@ -8,11 +8,11 @@ Companies using Amazon can pay to have reviewers review their product through th
 
 The Vine reviews DataFrame:
 
-![]()
+![](https://github.com/mzabrisk/Amazon_Vine_Analysis/blob/1d5f4e945dd5ad9f30771a0594aace575425a374/images/vine_reviews_df.png)
 
 The non-Vine reviews DataFrame:
 
-![]()
+![](https://github.com/mzabrisk/Amazon_Vine_Analysis/blob/1d5f4e945dd5ad9f30771a0594aace575425a374/images/non_vine_reviews_df.png)
 
 - There were 55 Vine Reviews that were 5-stars and 19723 non-Vine Reviews that were 5-stars.
 
@@ -20,7 +20,7 @@ The non-Vine reviews DataFrame:
 
 The full analysis from the Vine and non-Vine DataFrames can be seen here:
 
-![]()
+![](https://github.com/mzabrisk/Amazon_Vine_Analysis/blob/1d5f4e945dd5ad9f30771a0594aace575425a374/images/counts_percentages.png)
 
 
 
@@ -30,4 +30,4 @@ There does not appear to be any bias from Vine Reviewers when it comes to giving
 
 A Chi-Squared test could be (and was) performed to determine whether or not there was any bias. For the analysis, reviews were categorized into 5-star, and not 5-star. Vine Reviewers and non-Vine Reviewers. p-value was 0.98, indicating that there is no difference in categorical frequency between groups.
 
-![]()
+![](https://github.com/mzabrisk/Amazon_Vine_Analysis/blob/1d5f4e945dd5ad9f30771a0594aace575425a374/images/chi_squared.png)
